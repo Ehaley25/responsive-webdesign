@@ -1,0 +1,1 @@
+Building a responsive website to show potential clients a preview what im capable of across different screen sizes.
